@@ -1,9 +1,20 @@
-# Deploy Strapi to Render
+<img src="https://blacksla.sh/github/img/blackslash-logo.svg" alt="BlackSlash Creative Logo" width="300" />
 
-This is a sample [Strapi](https://strapi.io/) app, configured for deployment to [Render](https://render.com). It uses a SQLite database, which is stored on a [persistent disk](https://render.com/docs/disks) along with uploaded Media Library files.
+# Nybble App MVP
+A Strapi backend for our Next.js restaurant ordering app.
 
-Fork this repo and click the button below to deploy.
+## Screenshots
+<img src="https://blacksla.sh/github/img/nybble.png" alt="Nybble Homepage Screenshot" width="700" />
+<img src="https://blacksla.sh/github/img/nybble-checkout.png" alt="Nybble Checkout Screenshot" width="700" />
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+## Technology
+MongoDB // React // Next.js // Node // GraphQL // Strapi // Stripe
 
-See the guide at https://render.com/docs/deploy-strapi for more information.
+## Frontend Repo
+https://github.com/blackslashcreative/next-restaurant-app
+
+## Hire Me :)
+If you're interested in hiring me, you can email me here: [ghosty@blacksla.sh](mailto:ghosty@blacksla.sh)
+
+## License
+The MIT license gives users express permission to reuse code for any purpose. 
